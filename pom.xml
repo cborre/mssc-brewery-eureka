@@ -11,7 +11,7 @@
 
 	<groupId>guru.sfg.brewery.eureka</groupId>
 	<artifactId>mssc-brewery-eureka</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>mssc-brewery-eureka</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -25,11 +25,12 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:https://cborre: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@github.com/cborre/mssc-brewery-eureka.git</connection>
-		<!--<developerConnection>scm:git:https://cborre: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@github.com/cborre/mssc-brewery-eureka.git</developerConnection>-->
+		<connection>scm:git:git@github.com:cborre/mssc-brewery-eureka.git</connection>
+		<!--<developerConnection>scm:git:https://github.com/cborre/mssc-brewery-eureka.git</developerConnection>-->
 		<url>https://github.com/cborre/mssc-brewery-eureka</url>
 		<tag>HEAD</tag>
-	</scm>
+	  <developerConnection>scm:git:git@github.com:cborre/mssc-brewery-eureka.git</developerConnection>
+  </scm>
 
 	<dependencies>
 
