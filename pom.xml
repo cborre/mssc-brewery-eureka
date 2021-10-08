@@ -25,8 +25,8 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:git://github.com/cborre/mssc-brewery-eureka.git</connection>
-		<developerConnection>scm:git:git@github.com:cborre/mssc-brewery-eureka.git</developerConnection>
+		<connection>scm:git:https://github.com/cborre/mssc-brewery-eureka.git</connection>
+		<developerConnection>scm:git:https://github.com/cborre/mssc-brewery-eureka.git</developerConnection>
 		<url>https://github.com/cborre/mssc-brewery-eureka</url>
 		<tag>mssc-brewery-eureka-0.0.1</tag>
 	</scm>
