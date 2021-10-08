@@ -24,6 +24,13 @@
 		<docker.image.name>${project.artifactId}</docker.image.name>
 	</properties>
 
+	<scm>
+		<connection>scm:git:https://cborre:GH_Administra2@github.com/cborre/mssc-brewery-eureka.git</connection>
+		<developerConnection>scm:git:https://cborre:GH_Administra2@github.com/cborre/mssc-brewery-eureka.git</developerConnection>
+		<url>https://github.com/cborre/mssc-brewery-eureka</url>
+		<tag>mssc-brewery-eureka-0.0.1</tag>
+	</scm>
+
 	<dependencies>
 
 		<dependency>
@@ -103,12 +110,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
-	<scm>
-		<connection>scm:git:git@github.com:cborre/mssc-brewery-eureka.git</connection>
-		<developerConnection>scm:git:git@github.com:cborre/mssc-brewery-eureka.git</developerConnection>
-		<url>https://github.com/cborre/mssc-brewery-eureka</url>
-		<tag>mssc-brewery-eureka-0.0.1</tag>
-	</scm>
 
 </project>
